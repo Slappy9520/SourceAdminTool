@@ -1,0 +1,2 @@
+# SourceAdminTool
+Easier server management.

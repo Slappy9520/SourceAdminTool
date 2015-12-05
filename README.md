@@ -1,2 +1,2 @@
-# SourceAdminTool
+# SourceSimpleServerManager
 Easier server management.

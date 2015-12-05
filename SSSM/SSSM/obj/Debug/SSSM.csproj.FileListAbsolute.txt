@@ -1,0 +1,11 @@
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\bin\Debug\SSSM.exe.config
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\bin\Debug\SSSM.exe
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\bin\Debug\SSSM.pdb
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\obj\Debug\SSSM.csprojResolveAssemblyReference.cache
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\obj\Debug\SSSM.Properties.Resources.resources
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\obj\Debug\SSSM.csproj.GenerateResource.Cache
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\obj\Debug\SSSM.exe
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\obj\Debug\SSSM.pdb
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\bin\Debug\SSSMrearend.dll
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\bin\Debug\SSSMrearend.pdb
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSM\obj\Debug\SSSM.Form1.resources

@@ -1,0 +1,4 @@
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSMrearend\bin\Debug\SSSMrearend.dll
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSMrearend\bin\Debug\SSSMrearend.pdb
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSMrearend\obj\Debug\SSSMrearend.dll
+C:\Users\Slappy\Documents\GitHub\SourceAdminTool\SSSM\SSSMrearend\obj\Debug\SSSMrearend.pdb
